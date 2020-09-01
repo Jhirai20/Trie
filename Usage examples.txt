@@ -1,0 +1,3 @@
+Tries can be used in dictionary searches ([rint all words in alphabetical order]) and auto word completion. 
+Relatively Binary search trees have a search time proportional to MaxStringLength * log NumberofKeysinTree,
+While Tries have O(M)time complexity but require more space.

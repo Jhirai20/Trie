@@ -1,0 +1,11 @@
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\bin\Debug\netcoreapp3.1\Trie.exe
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\bin\Debug\netcoreapp3.1\Trie.deps.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\bin\Debug\netcoreapp3.1\Trie.runtimeconfig.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\bin\Debug\netcoreapp3.1\Trie.runtimeconfig.dev.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\bin\Debug\netcoreapp3.1\Trie.dll
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\bin\Debug\netcoreapp3.1\Trie.pdb
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\obj\Debug\netcoreapp3.1\Trie.csprojAssemblyReference.cache
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\obj\Debug\netcoreapp3.1\Trie.AssemblyInfoInputs.cache
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\obj\Debug\netcoreapp3.1\Trie.AssemblyInfo.cs
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\obj\Debug\netcoreapp3.1\Trie.dll
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Trie\obj\Debug\netcoreapp3.1\Trie.pdb
